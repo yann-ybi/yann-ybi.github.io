@@ -2,5 +2,5 @@ body {background-color: black; text-align:center;}
 body {color: white; text-align:center;}
 h1 {color: green; margin-left: 20px; text-align:center;}
 
-#navTable {width: 1024px;}
+#navTable {width: 1024px; text-align:center;}
 #navTd {width: 500px; text-align:center;}
