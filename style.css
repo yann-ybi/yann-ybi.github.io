@@ -1,6 +1,6 @@
-body {background-color: black;}
-body {color: white;}
-h1 {color: green; margin-left: 20px;}
+body {background-color: black; text-align:center;}
+body {color: white; text-align:center;}
+h1 {color: green; margin-left: 20px; text-align:center;}
 
-#navTable {width: 800px;}
+#navTable {width: 1024px;}
 #navTd {width: 200px; text-align:center;}
